@@ -11,9 +11,6 @@ This AI chatbot is designed to simulate mental health counseling sessions in a s
 - Supports English, Russian, and Kazakh languages
 - Uses a combination of generative models via a RAG system
 
-> ⚠️ Disclaimer: This tool is for educational and research purposes only. It is not a replacement for professional medical or psychological help.
-
----
 
 ## 🔍 Features
 
@@ -67,7 +64,7 @@ This AI chatbot is designed to simulate mental health counseling sessions in a s
 * **Zhuldyz Salimgerey** — DeepSeek-7B-LLM Integration, Model Deployment
 * **Gulzina Daulet** — Gemini 2.0 Flash Integration, Model Deployment
 
-**Supervisor**: *Adaliyev Nurlan*
+**Supervisor**: *Mansurova Aigerim*
 Department of Computational and Data Sciences
 Astana IT University
 
